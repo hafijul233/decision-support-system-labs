@@ -5,6 +5,6 @@ public class Main {
 
     private static void areaOfRectangleCalculate() {
         AreaOfRectangle areaOfRectangle = new AreaOfRectangle();
-        areaOfRectangle.calculate();
+        areaOfRectangle.calculate(6,6,8);
     }
 }
